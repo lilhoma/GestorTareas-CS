@@ -1,0 +1,5 @@
+C:\Users\pablo\OneDrive\Desktop\Coding\Csharp\GestorTareas\bin\Release\net9.0\publish\GestorTareas.exe
+C:\Users\pablo\OneDrive\Desktop\Coding\Csharp\GestorTareas\bin\Release\net9.0\publish\GestorTareas.dll
+C:\Users\pablo\OneDrive\Desktop\Coding\Csharp\GestorTareas\bin\Release\net9.0\publish\GestorTareas.deps.json
+C:\Users\pablo\OneDrive\Desktop\Coding\Csharp\GestorTareas\bin\Release\net9.0\publish\GestorTareas.runtimeconfig.json
+C:\Users\pablo\OneDrive\Desktop\Coding\Csharp\GestorTareas\bin\Release\net9.0\publish\GestorTareas.pdb
