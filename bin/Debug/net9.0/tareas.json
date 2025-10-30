@@ -1,0 +1,17 @@
+[
+  {
+    "Nombre": "testeo json",
+    "Fecha": "2025-10-29T00:00:00",
+    "Completada": true
+  },
+  {
+    "Nombre": "juan edit",
+    "Fecha": "2025-11-20T00:00:00",
+    "Completada": true
+  },
+  {
+    "Nombre": "TEsteoooo",
+    "Fecha": "2012-12-29T00:00:00",
+    "Completada": true
+  }
+]
