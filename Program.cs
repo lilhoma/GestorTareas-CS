@@ -1,7 +1,8 @@
 ﻿// TODO: Filtrar Tareas completadas
 // TODO: Ordenar por fecha
 // TODO: Hacer que si no se agrega un fecha, se ponga la actual
-// TODO: Verificar y manejar campos vacíos
+// TODO: Verificar y manejar campos vacíos en fecha,nombres etc.
+
 
 
 using System.Text.Json;
