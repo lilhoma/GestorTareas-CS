@@ -1,4 +1,8 @@
-﻿using System.Text.Json;
+﻿// TODO: Filtrar Tareas completadas
+// TODO: Ordenar por fecha
+// TODO: Hacer que si no se agrega un fecha, se ponga la actual
+
+using System.Text.Json;
 
 namespace GestorTareas
 {
@@ -11,8 +15,6 @@ namespace GestorTareas
 
             while (true)
             {
-                // TODO: Filtrar Tareas completadas
-                // TODO: Ordenar por fecha
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine("----- Gestor de Tareas -----");
                 Console.ResetColor();
